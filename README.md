@@ -3,7 +3,7 @@
 # Insert an element in an Array
 
 ## Aim:
-  To write a Java program to create a method to calculate power of a number raised to other.
+  To write a Java program to insert an element in an Array.
   
 ## Algorithm
 
@@ -61,5 +61,4 @@ System.out.print(a[n]);
 ![image](https://github.com/SaiDarshan2003/Experiment-9/assets/94692595/cf07a2e1-fb33-4abb-a1e8-857299caba80)
 
 ## Result 
-  We have successfully created a Java program to calculate power of a number raised to other using method.
-  
+  We have successfully created a Java program to Insert an element in an Array.
